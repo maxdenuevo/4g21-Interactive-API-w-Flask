@@ -52,4 +52,3 @@ This will remove one todo, based on a given position in the todos list, at the e
 This exercise is part of the complete 4Geeks Academy Full Stack course:
 
 [![4Geeks Academy](https://img.shields.io/badge/4Geeks%20Academy-blue.svg)](https://4geeks.com/syllabus/santiago-pt-49/project/python-flask-api-tutorial)
-# 4g21-Interactive-API-w-Flask
